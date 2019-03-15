@@ -11,4 +11,18 @@
   "profile": {
     "name": "typicode"
   }
+  
+  "Endpoint" : {
+      "rows": 
+      [{artnr: 123, benamning: 'T-shirt', storlek: 'XL', antal: 32, minantal: 2, maxantal: 32, omsattning: 10},
+      {artnr: 123, benamning: 'T-shirt', storlek: 'XL', antal: 32, minantal: 4, maxantal: 24, omsattning: 10},
+      {artnr: 123, benamning: 'T-shirt', storlek: 'XL', antal: 32, minantal: 8, maxantal: 25, omsattning: 10},
+      {artnr: 123, benamning: 'T-shirt', storlek: 'XL', antal: 32, minantal: 9, maxantal: 26, omsattning: 10},
+      {artnr: 123, benamning: 'T-shirt', storlek: 'XL', antal: 32, minantal: 7, maxantal: 21, omsattning: 10},
+      {artnr: 123, benamning: 'T-shirt', storlek: 'XL', antal: 32, minantal: 12, maxantal: 16, omsattning: 10},
+      {artnr: 123, benamning: 'T-shirt', storlek: 'XL', antal: 32, minantal: 1, maxantal: 17, omsattning: 10},
+      {artnr: 123, benamning: 'T-shirt', storlek: 'XL', antal: 32, minantal: 9, maxantal: 10, omsattning: 10},
+      {artnr: 123, benamning: 'T-shirt', storlek: 'XL', antal: 32, minantal: 20, maxantal: 30, omsattning: 10},
+      {artnr: 123, benamning: 'T-shirt', storlek: 'XL', antal: 32, minantal: 8, maxantal: 28, omsattning: 10}]
+  }
 }
